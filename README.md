@@ -1,5 +1,4 @@
-# **SAMPLING**
-## **(Sampling Techniques and Model Evaluation Assignment)**
+# ***SAMPLING*** ## **(Sampling Techniques and Model Evaluation Assignment)**
 
 ## *Project Description*
 
