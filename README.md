@@ -55,7 +55,7 @@ The dataset used for this assignment is the [Creditcard_data.csv](./Creditcard_d
 4. *Performance Evaluation*:
    - The accuracy of each model was calculated and compared across all sampling techniques.
 
-## Results
+## *Results*
 
 The table below summarizes the accuracies achieved by each model for each sampling technique. 
 
